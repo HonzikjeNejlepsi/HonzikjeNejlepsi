@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @HonzikjeNejlepsi
-- 👀 I’m interested in ...Honzíkovi
-- 🌱 I’m currently learning ...záhyb Honzíka
-- 💞️ I’m looking to collaborate on ... co ja vim XD
+- 👋 Hi, I’m Jan Trunec
+- 👀 I’m interested in ... how to effectively facilitate my work 😏
+- 🌱 I’m currently learning ... how not to be stupid
+- 💞️ I’m looking to collaborate on ... Hit me up with everything. I wanna learn new things.
 - 📫 How to reach me ... I usually play some pc games and my nickname is lup29... so good luck 😂
-
-<!---
-HonzikjeNejlepsi/HonzikjeNejlepsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
